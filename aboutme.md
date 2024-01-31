@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a fourth-year undergraduate at THE Ohio State University pursuing a degree in Computer Science & Engineering, I am driven by a passion for technology and innovation. My interests span across a diverse range of fields, including Software Development & Design, Data Engineering, Analytics, Project Management, Logistics, and Production.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am known for my unwavering motivation and dedication, which I bring to every professional endeavor. With a knack for thriving in both collaborative team settings and leadership roles, I approach challenges with enthusiasm and a proactive mindset. My adaptability allows me to seamlessly transition between projects, while my appetite for learning ensures I can quickly grasp new concepts and technologies.
 
-What else do you need?
+### Technical Skills
+Java, TypeScript, JavaScript, CSS, Python, C, x86-64, Ruby, Spring, HTML, SQL, Node JS*, Swift Code
+Technologies: React, SpringBoot, Ruby on Rails, Amazon AWS, Jupyter Notebook, MySQL Workbench, Git, GitHub, GitLab, gdb debugger, Docker*, Jira, Agile Methodology, Eclipse, XCode, VSCode, NumPy, PyTorch, Pandas, RabbitMQ*, MinIO*, SolidWorks, MATLAB, MS Office, Adobe Suite,
+*learnt through online resources currently
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
