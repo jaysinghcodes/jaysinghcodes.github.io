@@ -21,7 +21,7 @@ author: Jay Singh
 
 navbar-links:
   About Me: "aboutme"
-  Technical Skills: "technicalskills.md"
+  Technical Skills: "technicalskills"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
